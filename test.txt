@@ -1,1 +1,7 @@
+<<<<<<< .merge_file_a03160
 commit #2 to develop
+=======
+new test for epam lab
+and one more
+
+>>>>>>> .merge_file_a06660
