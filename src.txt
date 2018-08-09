@@ -4,10 +4,3 @@ more src text
 
 
 text for cherry-pick
-
-
-
-unneccesary text 
-unneccesary text 
-unneccesary text 
-unneccesary text 
