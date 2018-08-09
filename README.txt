@@ -5,16 +5,6 @@ Now we have two Ivans!
 Have to add some more!
 One more!
 
-=========
-+++++++++
-branch update
-
-<<<<<<< HEAD
-update master v 2.0
-=======
-update new_branch v 2.0
-
-
 13
 
 =======
